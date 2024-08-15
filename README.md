@@ -61,7 +61,7 @@
 
 <!-- Add the badge here -->
 <p>
-  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="150" height="200" />
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="250" height="350" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnaviadhau&show_icons=true&locale=en" alt="vaishnaviadhau" /></p>
