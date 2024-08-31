@@ -63,5 +63,6 @@
 <p>
   <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="210" height="300" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnaviadhau&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnaviadhau" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnaviadhau&show_icons=true&locale=en" alt="vaishnaviadhau" /></p>
